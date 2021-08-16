@@ -4,6 +4,7 @@ module.exports = {
     title: "Portfolio",
   },
   plugins: [
+    'gatsby-plugin-typescript', 
     "gatsby-plugin-sass",
     "gatsby-plugin-image",
     "gatsby-transformer-remark",
